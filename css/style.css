@@ -70,6 +70,15 @@ body {
   padding-bottom: 40px;
 }
 
+.section-title {
+  margin: 0;
+  margin-bottom: 20px;
+  padding-left: 40px;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 100%;
+}
+
 /* header */
 .header-top {
   align-items: center;
@@ -105,4 +114,71 @@ body {
 
 .header-btn:not(:last-child) {
   margin-right: 40px;
+}
+
+/* hero */
+.special-list-item {
+  width: 573px;
+  outline: 1px solid red;
+}
+
+.special-list-item:not(:last-child) {
+  margin-right: 24px;
+}
+
+.island-list {
+  flex-direction: column;
+}
+
+.island-list-item {
+  outline: 1px solid red;
+}
+
+.island-list-item:not(:last-child) {
+  margin-bottom: 24px;
+}
+
+.island-article,
+.room-article {
+  padding: 40px 45px;
+}
+
+.room-article {
+  margin-top: auto;
+}
+
+.article-title {
+  margin: 0;
+  margin-bottom: 15px;
+  font-weight: 700;
+  line-height: 100%;
+}
+
+.island-article {
+  font-size: 40px;
+}
+
+.room-title {
+  font-size: 70px;
+}
+
+.article-price {
+  display: block;
+  margin-bottom: 47px;
+  font-weight: 400;
+  line-height: 100%;
+}
+
+.island-price {
+  font-size: 20px;
+}
+
+.room-price {
+  font-size: 30px;
+}
+
+.article-link {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 100%;
 }
