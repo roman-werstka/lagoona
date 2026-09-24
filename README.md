@@ -61,11 +61,13 @@ Clone the repository:
 ```bash
 git clone https://github.com/roman-werstka/lagoona.git
 ```
+
 Then open `index.html` in your browser.
 
 ## What I Practiced
 
 While working on this project, I practiced:
+
 - Building page structure with semantic HTML
 - Styling layouts with CSS
 - Working with Flexbox
@@ -73,6 +75,9 @@ While working on this project, I practiced:
 - Structuring a multi-section landing page
 - Working with images and content cards
 - Building hotel and service sections
+
 ## Author
+
 Roman Kovyryalov
-GitHub: [@roman-werstka](https://github.com/roman-werstka?utm_source=chatgpt.com)
+
+GitHub: [@roman-werstka](https://github.com/roman-werstka)
