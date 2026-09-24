@@ -6,7 +6,7 @@ The project is focused on semantic HTML structure, clean CSS styling, reusable l
 
 ## Demo
 
-GitHub Pages: coming soon
+[Live Demo](https://roman-werstka.github.io/lagoona/)
 
 ## About
 
